@@ -1,0 +1,6 @@
+c:\users\aa\documents\visual studio 2013\Projects\vshost32\vshost32\bin\Debug\vshost32.exe.config
+c:\users\aa\documents\visual studio 2013\Projects\vshost32\vshost32\bin\Debug\vshost32.exe
+c:\users\aa\documents\visual studio 2013\Projects\vshost32\vshost32\bin\Debug\vshost32.pdb
+c:\users\aa\documents\visual studio 2013\Projects\vshost32\vshost32\obj\Debug\vshost32.csprojResolveAssemblyReference.cache
+c:\users\aa\documents\visual studio 2013\Projects\vshost32\vshost32\obj\Debug\vshost32.exe
+c:\users\aa\documents\visual studio 2013\Projects\vshost32\vshost32\obj\Debug\vshost32.pdb

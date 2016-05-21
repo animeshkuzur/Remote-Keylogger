@@ -1,0 +1,13 @@
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\bin\Debug\win32 localhost.exe.config
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\win32 localhost.csprojResolveAssemblyReference.cache
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\MainWindow.baml
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\MainWindow.g.cs
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\App.g.cs
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\win32 localhost_MarkupCompile.cache
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\win32 localhost.g.resources
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\win32_localhost.Properties.Resources.resources
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\win32 localhost.csproj.GenerateResource.Cache
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\bin\Debug\win32 localhost.exe
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\bin\Debug\win32 localhost.pdb
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\win32 localhost.exe
+c:\users\aa\documents\visual studio 2013\Projects\win32 localhost\win32 localhost\obj\Debug\win32 localhost.pdb
