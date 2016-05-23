@@ -4,5 +4,5 @@ The whole system is controlled by an online Control Panel, where all the capture
 ####Instructions
 All the installation instructions are given inside the KCA and SCA folders along with user manual.
 ####Live Working Demo
-[Download Page](http://jugaad.eu.pn/keylogger/download.html)
-[Control Panel](http://jugaad.eu.pn/keylogger/)
+* [Download Page](http://jugaad.eu.pn/keylogger/download.html)
+* [Control Panel](http://jugaad.eu.pn/keylogger/)
